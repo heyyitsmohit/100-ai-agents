@@ -5,11 +5,11 @@
 **From zero to autonomous — built with LangChain, LlamaIndex & Ollama.**
 *100% free. 100% local. No API keys required.*
 
-[![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/100-ai-agents?style=flat-square&color=4ade80)](https://github.com/YOUR_USERNAME/100-ai-agents/stargazers)
-[![Forks](https://img.shields.io/github/forks/YOUR_USERNAME/100-ai-agents?style=flat-square&color=60a5fa)](https://github.com/YOUR_USERNAME/100-ai-agents/network)
-[![Progress](https://img.shields.io/badge/Progress-0%20%2F%20100-f59e0b?style=flat-square)](https://github.com/YOUR_USERNAME/100-ai-agents)
-[![License](https://img.shields.io/github/license/YOUR_USERNAME/100-ai-agents?style=flat-square)](LICENSE)
-[![Follow on X](https://img.shields.io/badge/Follow-%40YOUR__HANDLE-black?style=flat-square&logo=x)](https://x.com/YOUR_HANDLE)
+[![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/100-ai-agents?style=flat-square&color=4ade80)](https://github.com/heyyitsmohit/100-ai-agents/stargazers)
+[![Forks](https://img.shields.io/github/forks/YOUR_USERNAME/100-ai-agents?style=flat-square&color=60a5fa)](https://github.com/heyyitsmohit/100-ai-agents/network)
+[![Progress](https://img.shields.io/badge/Progress-0%20%2F%20100-f59e0b?style=flat-square)](https://github.com/heyyitsmohit/100-ai-agents)
+[![License](https://img.shields.io/github/license/heyyitsmohit/100-ai-agents?style=flat-square)](LICENSE)
+[![Follow on X](https://img.shields.io/badge/Follow-%40YOUR__HANDLE-black?style=flat-square&logo=x)](https://x.com/heyitsmohit_)
 
 </div>
 
@@ -225,8 +225,8 @@ Each project folder contains:
 
 I'm building this **one project at a time, in public.**
 
-- 𝕏 Twitter: [@YOUR_HANDLE](https://x.com/YOUR_HANDLE) — daily build logs
-- LinkedIn: [/in/YOUR_PROFILE](https://linkedin.com/in/YOUR_PROFILE) — weekly breakdowns
+- 𝕏 Twitter: [@YOUR_HANDLE](https://x.com/heyitsmohit_) — daily build logs
+- LinkedIn: [/in/YOUR_PROFILE](https://linkedin.com/in/mohit-sharma-265b00206) — weekly breakdowns
 - GitHub: ⭐ Star this repo to follow progress
 
 ---
