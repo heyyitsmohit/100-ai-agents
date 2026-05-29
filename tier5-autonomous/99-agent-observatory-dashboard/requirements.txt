@@ -1,0 +1,5 @@
+# Project-specific dependencies
+# Base deps → ../../requirements-base.txt
+langchain
+langchain-community
+ollama
